@@ -1,20 +1,20 @@
 # BoostTraining
 
 ## I. RAII and Memory Management
-* [ ] 1. Boost.SmartPointers
-* [ ] 2. Boost.PointerContainer
-* [ ] 3. Boost.ScopeExit
-* [ ] 4. Boost.Pool
+* [x] 1. Boost.SmartPointers
+* [x] 2. Boost.PointerContainer
+* [x] 3. Boost.ScopeExit
+* [x] 4. Boost.Pool
 
 ## II. String Handling
 
-* [ ] 5. Boost.StringAlgorithms
-* [ ] 6. Boost.LexicalCast
-* [ ] 7. Boost.Format
-* [ ] 8. Boost.Regex
-* [ ] 9. Boost.Xpressive
-* [ ] 10. Boost.Tokenizer
-* [ ] 11. Boost.Spirit
+* [x] 5. Boost.StringAlgorithms
+* [x] 6. Boost.LexicalCast
+* [x] 7. Boost.Format
+* [x] 8. Boost.Regex
+* [x] 9. Boost.Xpressive
+* [x] 10. Boost.Tokenizer
+* [x] 11. Boost.Spirit
 
 ## III. Containers
 
