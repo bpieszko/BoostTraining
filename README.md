@@ -117,7 +117,7 @@
 
 ## XVII. Other Libraries
 
-[x] 69. Boost.Utility
-70. Boost.Assign
-71. Boost.Swap
-72. Boost.Operators
+[x] 69. Boost.Utility<br/>
+70. Boost.Assign<br/>
+71. Boost.Swap<br/>
+72. Boost.Operators<br/>
