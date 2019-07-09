@@ -30,10 +30,10 @@
 
 ## IV. Data Structures
 
-* [ ] 21. Boost.Optional
-* [ ] 22. Boost.Tuple
-* [ ] 23. Boost.Any
-* [ ] 24. Boost.Variant
+* [x] 21. Boost.Optional
+* [x] 22. Boost.Tuple
+* [x] 23. Boost.Any
+* [x] 24. Boost.Variant
 * [ ] 25. Boost.PropertyTree
 * [ ] 26. Boost.DynamicBitset
 * [ ] 27. Boost.Tribool
