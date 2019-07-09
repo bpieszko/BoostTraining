@@ -18,14 +18,14 @@
 
 ## III. Containers
 
-* [ ] 12. Boost.MultiIndex
-* [ ] 13. Boost.Bimap
-* [ ] 14. Boost.Array
-* [ ] 15. Boost.Unordered
-* [ ] 16. Boost.CircularBuffer
-* [ ] 17. Boost.Heap
-* [ ] 18. Boost.Intrusive
-* [ ] 19. Boost.MultiArray
+* [x] 12. Boost.MultiIndex
+* [x] 13. Boost.Bimap
+* [x] 14. Boost.Array
+* [x] 15. Boost.Unordered
+* [x] 16. Boost.CircularBuffer
+* [x] 17. Boost.Heap
+* [x] 18. Boost.Intrusive
+* [x] 19. Boost.MultiArray
 * [ ] 20. Boost.Container
 
 ## IV. Data Structures
