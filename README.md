@@ -35,9 +35,9 @@
 * [x] 23. Boost.Any
 * [x] 24. Boost.Variant
 * [x] 25. Boost.PropertyTree
-* [ ] 26. Boost.DynamicBitset
-* [ ] 27. Boost.Tribool
-* [ ] 28. Boost.CompressedPair
+* [x] 26. Boost.DynamicBitset
+* [x] 27. Boost.Tribool
+* [x] 28. Boost.CompressedPair
 
 ## V. Algorithms
 
