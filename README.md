@@ -43,7 +43,7 @@
 
 * [x] 29. Boost.Algorithm
 * [x] 30. Boost.Range
-* [ ] 31. Boost.Graph
+* [x] 31. Boost.Graph
 
 ## VI. Communication
 
