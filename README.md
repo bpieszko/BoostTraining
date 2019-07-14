@@ -57,9 +57,9 @@
 
 ## VIII. Time
 
-* [ ] 36. Boost.DateTime
-* [ ] 37. Boost.Chrono
-* [ ] 38. Boost.Timer
+* [x] 36. Boost.DateTime
+* [x] 37. Boost.Chrono
+* [x] 38. Boost.Timer
 
 ## IX. Functional Programming
 
