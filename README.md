@@ -52,8 +52,8 @@
 
 ## VII. Streams and Files
 
-* [ ] 34. Boost.IOStreams
-* [ ] 35. Boost.Filesystem
+* [x] 34. Boost.IOStreams
+* [x] 35. Boost.Filesystem
 
 ## VIII. Time
 
