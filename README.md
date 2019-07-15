@@ -78,9 +78,9 @@
 
 ## XI. Generic Programming
 
-* [ ] 48. Boost.TypeTraits
-* [ ] 49. Boost.EnableIf
-* [ ] 50. Boost.Fusion
+* [x] 48. Boost.TypeTraits
+* [x] 49. Boost.EnableIf
+* [x] 50. Boost.Fusion
 
 ## XII. Language Extensions
 
