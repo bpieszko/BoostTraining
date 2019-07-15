@@ -91,8 +91,8 @@
 
 ## XIII. Error Handling
 
-* [ ] 55. Boost.System
-* [ ] 56. Boost.Exception
+* [x] 55. Boost.System
+* [x] 56. Boost.Exception
 
 ## XIV. Number Handling
 
