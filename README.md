@@ -63,11 +63,11 @@
 
 ## IX. Functional Programming
 
-* [ ] 39. Boost.Phoenix
-* [ ] 40. Boost.Function
-* [ ] 41. Boost.Bind
-* [ ] 42. Boost.Ref
-* [ ] 43. Boost.Lambda
+* [x] 39. Boost.Phoenix
+* [x] 40. Boost.Function
+* [x] 41. Boost.Bind
+* [x] 42. Boost.Ref
+* [x] 43. Boost.Lambda
 
 ## X. Parallel Programming
 
