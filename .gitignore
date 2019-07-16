@@ -31,4 +31,4 @@
 *.out
 *.app
 
-.vstags/
+.vstags
