@@ -19,13 +19,13 @@ int main() {
 	std::vector<uint64_t> part(HARDWARE_THREADS, 0);
 
 	boost::thread_group tg{};
-	boost::thread* t[HARDWARE_THREADS];
+	std::vector<boost::thread*> threads(HARDWARE_THREADS);
 
 	boost::timer::cpu_timer timer;
 
 	for (int i = 0; i < HARDWARE_THREADS; ++i) {
-		t[i] = new boost::thread(f, std::ref(part[i]), i * PART_LENGTH, (i + 1) * PART_LENGTH);
-		tg.add_thread(t[i]);
+		threads[i] = new boost::thread(f, std::ref(part[i]), i * PART_LENGTH, (i + 1) * PART_LENGTH);
+		tg.add_thread(threads[i]);
 	}
 	
 	tg.join_all();
