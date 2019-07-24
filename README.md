@@ -96,11 +96,11 @@
 
 ## XIV. Number Handling
 
-* [ ] 57. Boost.Integer
-* [ ] 58. Boost.Accumulators
-* [ ] 59. Boost.MinMax
-* [ ] 60. Boost.Random
-* [ ] 61. Boost.NumericConversion
+* [x] 57. Boost.Integer
+* [x] 58. Boost.Accumulators
+* [x] 59. Boost.MinMax
+* [x] 60. Boost.Random
+* [x] 61. Boost.NumericConversion
 
 ## XV. Application Libraries
 
