@@ -71,9 +71,9 @@
 
 ## X. Parallel Programming
 
-* [ ] 44. Boost.Thread
-* [ ] 45. Boost.Atomic
-* [ ] 46. Boost.Lockfree
+* [x] 44. Boost.Thread
+* [x] 45. Boost.Atomic
+* [x] 46. Boost.Lockfree
 * [ ] 47. Boost.MPI
 
 ## XI. Generic Programming
