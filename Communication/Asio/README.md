@@ -22,7 +22,7 @@
 * [x] Shutting down and closing a socket
 
 ## 3. Client Applications
-* [ ] Introduction
+* [x] Introduction
 * [ ] Implementing a synchronous TCP client
 * [ ] Implementing a synchronous UDP client
 * [ ] Implementing an asynchronous TCP client
