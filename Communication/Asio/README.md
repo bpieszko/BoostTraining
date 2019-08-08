@@ -11,15 +11,15 @@
 * [x] Accepting connections
 
 ## 2. IO Operations
-* [ ] Introduction
-* [ ] Using fixed length I/O buffers
-* [ ] Using extensible stream-oriented I/O buffers
-* [ ] Writing to a TCP socket synchronously
-* [ ] Reading from a TCP socket synchronously
-* [ ] Writing to a TCP socket asynchronously
-* [ ] Reading from a TCP socket asynchronously
-* [ ] Canceling asynchronous operations
-* [ ] Shutting down and closing a socket
+* [x] Introduction
+* [x] Using fixed length I/O buffers
+* [x] Using extensible stream-oriented I/O buffers
+* [x] Writing to a TCP socket synchronously
+* [x] Reading from a TCP socket synchronously
+* [x] Writing to a TCP socket asynchronously
+* [x] Reading from a TCP socket asynchronously
+* [x] Canceling asynchronous operations
+* [x] Shutting down and closing a socket
 
 ## 3. Client Applications
 * [ ] Introduction
