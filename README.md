@@ -119,5 +119,5 @@
 
 * [ ] 69. Boost.Utility
 * [x] 70. Boost.Assign
-* [ ] 71. Boost.Swap
-* [ ] 72. Boost.Operators
+* [x] 71. Boost.Swap
+* [x] 72. Boost.Operators
