@@ -105,7 +105,7 @@
 ## XV. Application Libraries
 
 * [x] 62. Boost.Log
-* [ ] 63. Boost.ProgramOptions
+* [x] 63. Boost.ProgramOptions
 * [ ] 64. Boost.Serialization
 * [ ] 65. Boost.Uuid
 
