@@ -85,7 +85,7 @@
 ## XII. Language Extensions
 
 * [ ] 51. Boost.Coroutine
-* [ ] 52. Boost.Foreach
+* [x] 52. Boost.Foreach
 * [ ] 53. Boost.Parameter
 * [ ] 54. Boost.Conversion
 
