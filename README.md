@@ -111,7 +111,7 @@
 
 ## XVI. Design Patterns
 
-* [ ] 66. Boost.Flyweight
+* [x] 66. Boost.Flyweight
 * [ ] 67. Boost.Signals2
 * [ ] 68. Boost.MetaStateMachine
 
