@@ -86,7 +86,7 @@
 
 * [x] 51. Boost.Coroutine
 * [x] 52. Boost.Foreach
-* [ ] 53. Boost.Parameter
+* [x] 53. Boost.Parameter
 * [x] 54. Boost.Conversion
 
 ## XIII. Error Handling
