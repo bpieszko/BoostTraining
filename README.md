@@ -106,7 +106,7 @@
 
 * [x] 62. Boost.Log
 * [x] 63. Boost.ProgramOptions
-* [ ] 64. Boost.Serialization
+* [x] 64. Boost.Serialization
 * [x] 65. Boost.Uuid
 
 ## XVI. Design Patterns
