@@ -121,3 +121,4 @@
 * [x] 70. Boost.Assign
 * [x] 71. Boost.Swap
 * [x] 72. Boost.Operators
+* [ ] 73. Boost.Test
